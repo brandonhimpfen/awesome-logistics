@@ -77,6 +77,7 @@ Platforms and tools supporting warehouse operations and order fulfillment.
 - [ShipBob](https://www.shipbob.com/) — Fulfillment platform for e-commerce logistics.
 - [ShipStation](https://www.shipstation.com/) — Shipping and order management platform.
 - [Flexe](https://www.flexe.com/) — On-demand warehousing and fulfillment network.
+- [Packrift Packaging Tools](https://packrift.com/pages/tools) — Free dimensional-weight, box-fit, poly-bag, tape-yield, and packaging planning tools for e-commerce fulfillment.
 
 ## Related Awesome Lists
 
