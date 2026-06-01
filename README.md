@@ -26,6 +26,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 Platforms for planning, executing, and optimizing the movement of goods.
 
+- [Cargoson](https://www.cargoson.com/) — Multi-carrier TMS for manufacturers and wholesalers across Europe and North America.
 - [Oracle Transportation Management](https://www.oracle.com/scm/logistics/transportation-management/) — Cloud-based TMS for global logistics operations.
 - [SAP Transportation Management](https://www.sap.com/products/scm/transportation-management.html) — Integrated TMS within SAP supply chain solutions.
 - [MercuryGate](https://www.mercurygate.com/) — TMS platform for multi-modal transportation management.
