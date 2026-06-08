@@ -67,6 +67,7 @@ Platforms and technologies for tracking shipments and improving supply chain tra
 
 Tools for route planning, optimization, and logistics efficiency.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [OptimoRoute](https://optimoroute.com/) — Route planning and optimization platform.
 - [Route4Me](https://route4me.com/) — Routing software for delivery and logistics businesses.
 - [GraphHopper](https://www.graphhopper.com/) — Routing engine and APIs for logistics applications.
