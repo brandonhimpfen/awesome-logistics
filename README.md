@@ -53,6 +53,7 @@ Tools for managing vehicles, drivers, and operational efficiency.
 
 - [Samsara](https://www.samsara.com/) — Fleet management and telematics platform.
 - [Geotab](https://www.geotab.com/) — Fleet tracking and telematics solutions.
+- [Damoov](https://damoov.com) - Mobile telematics SDK for fleet and driver-monitoring apps.
 - [Verizon Connect](https://verizonconnect.com/) — Fleet management platform with GPS tracking.
 
 ## Tracking & Visibility
